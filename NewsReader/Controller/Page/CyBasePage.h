@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  CyBasePage.h
 //  NewsReader
 //
 //  Created by 禹飞飞 on 16/3/14.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface HomePage : UIViewController
-
+@interface CyBasePage : UIViewController
 
 @end
-

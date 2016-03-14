@@ -1,0 +1,18 @@
+//
+//  NewsReader-PrefixHeader.pch
+//  NewsReader
+//
+//  Created by 禹飞飞 on 16/3/14.
+//  Copyright © 2016年 chris. All rights reserved.
+//
+
+#import <Availability.h>
+
+#ifdef __OBJC__
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+
+#import "Defines.h"
+
+
+#endif
